@@ -1,0 +1,6 @@
+this is whatsapp code:
+autbor:ajitha
+1.profile page
+2.chat screen code
+3.last seen code
+4.attachments (image,audio,video) code
