@@ -4,3 +4,4 @@ autbor:ajitha
 2.chat screen code
 3.last seen code
 4.attachments (image,audio,video) code
+hiding the last seen
